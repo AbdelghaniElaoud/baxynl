@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding and creating amazing t
 - IDEs: Visual Studio Code, IntelliJ IDEA
 
 Connect with me:
-[![LinkedIn]](https://www.linkedin.com/in/abdelghani-el-aoud-94b09a210/)
+[LinkedIn](https://www.linkedin.com/in/abdelghani-el-aoud-94b09a210/)
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=baxynl&show_icons=true&langs_count=3)
