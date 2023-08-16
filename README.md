@@ -1,7 +1,5 @@
 # Hello, I'm Abdelghani! 👋
 
-[![Profile Banner](banner-image-url.jpg)]
-
 Welcome to my GitHub profile! I'm passionate about coding and creating amazing things with technology. Here's a glimpse of what I work with:
 
 ## Skills
@@ -21,5 +19,5 @@ Connect with me:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baxynl&langs_count=3&layout=compact&hide=jupyter%20notebook)
 
 ## Top Repositories
-- [Repository 1](https://github.com/baxynl/MatlabCAM)
-- [Repository 2](https://github.com/baxynl/CsharpCAM)
+- [MatlabCAM](https://github.com/baxynl/MatlabCAM)
+- [CsharpCAM](https://github.com/baxynl/CsharpCAM)
