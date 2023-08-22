@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm passionate about coding and creating amazing t
 ## Skills
 - Languages: Java, C++, Python
 - Frameworks: Spring Boot, Django
-- Tools: Git, Bitbucket, Trello, Lucidchart
-- Databases: MySQL Server
+- Tools: Git, Bitbucket, Trello, Lucidchart, Postaman, Insomnia
+- Databases: MySQL Server, PostgreSQL
 - IDEs: Visual Studio Code, IntelliJ IDEA
 
 Connect with me:
